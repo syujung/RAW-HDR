@@ -13,7 +13,7 @@ We provide the original raw data to facilitate the research on HDR imaging.
 
 |              |                        Baidu Netdisk                         |                         Google Drive                        | Description                                                  |
 | :----------- | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| HDR-Dataset |   RAW Dataset in [link-1](https://pan.baidu.com/s/1J9Hr-TkFTkDcjGh9NS?) code:acce | todo | The original RAW version dataset (.CR3 file). |
+| RAW-HDR |   RAW Dataset in [link](https://pan.baidu.com/s/1J9Hr-TkFTkDcjGh9NS?) code:acce | todo | The original RAW version dataset (.CR3 file). |
 
 
 ## Copyright
