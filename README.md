@@ -9,7 +9,7 @@
 
 
 ## Download dataset
-We provide the original raw data to facilitate the research on HDR imaging.
+We provide the original raw data to facilitate the research on HDR imaging. The download link will be available upon acceptance.
 
 |              |                        Baidu Netdisk                         |                         Google Drive                        | Description                                                  |
 | :----------- | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
