@@ -1,4 +1,4 @@
-# High Dynamic Range Imaging from RAW Domain with a New benchmark dataset and a Multi-scale
+# High Dynamic Range Imaging from RAW Domain with a New benchmark dataset and a Multi-scale Network
 ### By [Yong Shu](https://github.com/syujung), [Liquan Shen](..), [Xiangyu Hu](..), [Zihao Zhou](..) ###
 
 ## A benchmark dataset for HDR Reconstruction from RAW domain
