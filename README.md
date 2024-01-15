@@ -9,11 +9,11 @@
 
 
 ## Download dataset
-We provide the original raw data to facilitate the research on HDR imaging. The download link will be available upon acceptance.
+We provide the original raw data to facilitate the research on HDR imaging. Now, we only make 10 scenes of our RAW-HDR dataset public. The full dataset will be made publicly accessible upon acceptance. 
 
 |              |                        Baidu Netdisk                         |                         Google Drive                        | Description                                                  |
 | :----------- | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| RAW-HDR |   RAW Dataset in [link](https://pan.baidu.com/s/1J9Hr-TkFTkDcjGh9NS?) code:acce | todo | The original RAW version dataset (.CR3 file). |
+| RAW-HDR |   RAW Dataset in [link](https://pan.baidu.com/s/1HACY2AzpDPplm-Y53hDVmg?) code:ab13 | todo | The original RAW version dataset. |
 
 
 ## Copyright
